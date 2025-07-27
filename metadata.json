@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Dungeon Master",
+  "description": "A dynamic text adventure game where Gemini and Imagen act as a Dungeon Master, creating a unique D&D-style experience with AI-generated scenes and stories.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
